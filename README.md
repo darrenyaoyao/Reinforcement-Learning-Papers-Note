@@ -13,3 +13,5 @@ A list of papers and my reading note to reinforcement learning.
    - [note](https://medium.com/@g789872001darren/goai-4-continuous-deep-q-learning-with-model-based-acceleration-4d8aea6889d0#.nfqdm4mga)
  - Policy Distillation [pdf](http://arxiv.org/pdf/1511.06295v2.pdf)
    - [note](https://hackmd.io/s/ByCzwU-9)
+ - Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning [pdf](https://arxiv.org/pdf/1603.07954v3.pdf)
+   - [note](https://hackmd.io/EwDgxgjAnAbADAEwLQCM4DMJICwgMx6pQphJwQCmCKKA7OhegIYxA===?view)
